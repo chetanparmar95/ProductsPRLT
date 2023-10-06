@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyCart Component EmptyCart renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "marginBottom": 16,
+      }
+    }
+  >
+    Your cart is empty
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#888",
+        "fontSize": 18,
+        "textAlign": "center",
+      }
+    }
+  >
+    Start shopping to add items to your cart.
+  </Text>
+</View>
+`;
